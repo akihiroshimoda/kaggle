@@ -1,0 +1,720 @@
+TeamID,TeamName
+2436,californiamurray st
+2512,north carolinafiu
+2434,ohio stalcorn
+2500,syracusealbany
+2321,californiadetroit
+2614,north carolinan.c. central
+2745,syracuserobert morris
+2510,n.c. stategeorgia st
+2567,ohio stjames madison
+2534,appalachian stnc wilmington
+2555,arizona stw illinois
+2224,arkansasalcorn
+2430,auburnniagara
+2557,ball stvalparaiso
+2437,baylornorfolk st
+2465,belmontportland st
+2387,boise stloy marymount
+2301,boston collegedartmouth
+2518,brownSaint Francis (NY)
+2273,brigham youngbradley
+2571,charlotten.c. asheville
+2497,clemsonpresbyterian
+2315,coastal carcharleston
+2275,coloradoark pine bluff
+2574,colorado stcalifornia-davis
+2619,connecticutwilliam & mary
+2603,dukenc greensboro
+2493,duquesnenicholls
+2341,fairfieldcentral conn
+2457,george masonliberty
+2615,georgetowntulane
+2517,georgianew orleans
+2438,harvardholy cross
+2599,hawai'isouthern utah
+2653,idahoutah
+2416,illinoisedwardsville
+2455,indianahoward
+2364,ionaboston
+2461,iowa stidaho st
+2462,kansashofstra
+2503,kansas stloyola (il)
+2604,kentsamford
+2533,kentuckymorehead st
+2695,lafayettewagner
+2680,louisiana statela-monroe
+2463,mainefordham
+2413,marquettecentenary
+2417,marylandcharleston so
+2410,mercerbucknell
+2472,michigan stfgcu
+2677,minnesotatennessee tech
+2393,mississippiark little rock
+2482,monmouthfiu
+2600,montananorth dakota
+2395,morgan stalbany
+2564,n coloradomcneese
+2496,northern iowadenver
+2617,northwesternn illinois
+2777,oregonw salem st
+2671,pacificpepperdine
+2797,pittwofford
+2480,providencebryant
+2514,purduecal st. northridge
+2562,quinnipiachartford
+2645,radfordnavy
+2519,ricecs sacramento
+2631,ridermississippi st
+2816,s dakota stwyoming
+2820,sacred heartyale
+2750,san diegostanford
+2504,san franciscocal poly
+2532,santa clarabakersfield
+2760,seton hallsaint peter's
+2771,sienatennessee st
+2598,south ala.houston bap
+2481,south carolinaalabama a&m
+2752,south fla.smu
+2538,Saint Bonaventurecleveland st
+2494,saint francis (pa)american
+2639,Saint John`sliu brooklyn
+2566,saint joseph'sdrexel
+2696,saint mary'snew mexico st
+2663,stony brookmaryland - e. shore
+2727,a&m-corpus chrisoregon st
+2780,texas techsouth dakota
+2681,towsonmiami (oh)
+2865,alabama-birminghamgreen bay
+2685,central floridamassachusetts
+2880,utah stweber st
+2725,utah valleyn dakota st
+2842,texas-el pasotexas southern
+2559,va commonwealthbethune-cookman
+2629,villanovaf dickinson
+2693,virginialongwood
+2779,wake forestoral roberts
+2909,washingtonwright st
+2740,washington stmiss valley st.
+2926,xavieryoungstown st
+2311,butlerdavidson
+2606,colorado stw salem st
+2269,cornellalabama
+2339,daytoncreighton
+2588,e illinoistoledo
+2509,e michiganoakland
+2441,elonlipscomb
+2407,georgia techflorida a&m
+2501,gonzagamiss valley st.
+2657,kentalabama-birmingham
+2666,louisiana techtex.-pan american
+2573,loy marymountnorth dakota
+2576,manhattann.j.i.t.
+2409,mercerbryant
+2414,montanaboise st
+2591,nevadamontana st
+2722,new mexicocal riverside
+2699,oklahoma stseattle
+2710,oregon stsouth dakota
+2525,portlande washington
+2484,princetonc michigan
+2724,ricesouth ala.
+2618,rutgersmarist
+2756,saint louisse missouri st
+2570,templedelaware
+2812,green baysamford
+2800,wright stportland st
+2431,arizonanorthern ariz.
+2225,austin peayakron
+2340,baylorhartford
+2444,boise stnorth dakota
+2359,bradleyidaho st
+2291,denverark pine bluff
+2622,detroitw michigan
+2587,floridastetson
+2626,g washingtonnc wilmington
+2377,george masondartmouth
+2673,harvardwilliam & mary
+2488,hawai'imcneese
+2543,montanaloy marymount
+2708,morgan stmaryland-baltimore county
+2675,n coloradosouthern utah
+2553,navylongwood
+2748,north carolinavalparaiso
+2456,old dominionbethune-cookman
+2572,ricehouston bap
+2605,sacred heartlafayette
+2655,seton hallmonmouth
+2545,south ala.cs sacramento
+2814,texascalifornia-irvine
+2736,texas techoregon st
+2607,tulsafiu
+2636,texas southernidaho
+2858,california-davisw salem st
+2527,la-monroealcorn
+2661,texas san antonioiowa
+2635,wake foresteast carolina
+2789,washingtonportland st
+2711,west virginialoyola (md)
+2698,green baykent
+2647,wichita stf dickinson
+2694,wisconsinfort wayne
+2585,wright stbelmont
+2217,albanyamerican
+2515,arizona sttexas st
+2324,coloradocoppin st
+2322,connecticutcolgate
+2338,dukecoastal car
+2683,hofstrayale
+2521,kentuckymiami (oh)
+2659,lamartex.-pan american
+2650,minnesotasf austin
+2385,mississippialabama st
+2403,missouri stauburn
+2707,notre damesaint francis (pa)
+2688,penn strobert morris
+2790,richmondvirginia military
+2601,riderlehigh
+2580,south carolinaga southern
+2651,southern utahmcneese
+2749,saint mary'ssan diego st
+2775,texas a&msmu
+2687,vanderbiltlipscomb
+2772,villanovapenn
+2897,w kentuckymilwaukee
+2342,alabamajackson st
+2508,arizona sttcu
+2373,armyliu brooklyn
+2513,boston collegeSaint Francis (NY)
+2366,brigham youngidaho st
+2331,campbelleast carolina
+2303,charleston socitadel
+2406,clemsonliberty
+2346,coastal carelon
+2383,connecticuthofstra
+2363,creightonflorida a&m
+2597,bakersfieldutah valley
+2520,fresno stnorthern ariz.
+2544,furmanpresbyterian
+2334,g washingtonboston
+2524,illinoisn illinois
+2686,indiana stmilwaukee
+2447,ionahampton
+2590,long beach stpepperdine
+2405,loyola (il)canisius
+2704,louisiana statew kentucky
+2537,marquettemaryland - e. shore
+2490,niagaradrexel
+2624,ohion. carolina a&t
+2747,oklahomala-monroe
+2709,portlandseattle
+2815,california-santa barbaraweber st
+2691,sienanortheastern
+2767,Saint John`sSaint Bonaventure
+2818,tennesseen.c. asheville
+2523,tulsaark little rock
+2652,alabama-birminghamjacksonville st
+2640,central floridahoward
+2840,southern californiacal riverside
+2861,virginia technc greensboro
+2667,woffordgeorgia
+2594,xavierbowling green
+2486,arkansas stse missouri st
+2460,butlernorthwestern
+2368,c michiganil chicago
+2558,cincinnatitoledo
+2379,evansvilleedwardsville
+2400,floridaga southern
+2420,indiana - purduee illinois
+2596,lehighquinnipiac
+2679,loyola (md)maryland-baltimore county
+2401,Mount Saint Mary`samerican
+2682,north floridasavannah st
+2743,north texastexas arlington
+2721,oral robertsstanford
+2483,rhode islandbrown
+2841,texasestern carolina
+2672,california-irvineloy marymount
+2729,nevada-las vegasnevada
+2857,utahutah st
+2546,texas-el pasoark pine bluff
+2877,w michiganva commonwealth
+2782,wisconsinoakland
+2353,cleveland stflorida a&m
+2388,kansascent arkansas
+2374,kansas stboston
+2632,lafayettesaint francis (pa)
+2648,mississippi stse louisiana
+2478,morgan steast tenn. st.
+2541,middle tenn stlamar
+2581,old dominionliberty
+2522,pitte kentucky
+2536,prairie viewfgcu
+2726,san diego stsanta clara
+2623,south carolinala salle
+2550,south fla.davidson
+2804,a&m-corpus christex.-pan american
+2759,nc wilmingtonpenn st
+2643,villanovageorge mason
+2806,william & maryrichmond
+2448,alabamaprovidence
+2215,albanyalcorn
+2475,arizona stsan francisco
+2227,arkansasappalachian st
+2362,bostonindiana
+2358,brigham younghawai'i
+2577,clemsonnc greensboro
+2530,detroitrobert morris
+2498,fiun.c. central
+2419,la salledavidson
+2531,louisiana techmiami (oh)
+2697,miami (fl)nc wilmington
+2499,michiganhouston bap
+2554,missouri stmaryland - e. shore
+2705,n coloradotexas southern
+2404,n.c. stateakron
+2469,ohio stcalifornia
+2700,purdues dakota st
+2754,south carolinasouth fla.
+2516,saint joseph'sboston college
+2584,tennesseeeast carolina
+2744,tulanepenn st
+2823,vanderbiltsaint mary's
+2610,villanovadayton
+2282,akrondrake
+2357,auburnindiana - purdue
+2231,belmontalabama st
+2485,boston colleges dakota st
+2330,butlerevansville
+2565,campbelln.c. asheville
+2528,canisiusSaint Francis (NY)
+2540,charleston sostetson
+2285,detroitalbany
+2612,e washingtontexas arlington
+2333,f dickinsonc michigan
+2304,fl atlanticamerican
+2433,georgia sthoward
+2560,lafayetten.j.i.t.
+2706,long beach stgreen bay
+2552,liu brooklynnavy
+2586,miami (oh)nicholls
+2396,n coloradoair force
+2423,n.c. stateaustin peay
+2563,new mexicolouisiana tech
+2507,northern iowaeast carolina
+2646,oklahoma stnorth texas
+2809,quinnipiacyale
+2569,smufgcu
+2665,southern missmontana st
+2839,stony brookwagner
+2769,templesiena
+2784,tulsasouth ala.
+2620,alabama-birminghamgeorgia
+2808,utahsouthern
+2548,texas-el pasoarkansas st
+2761,va commonwealthoklahoma
+2720,william & marymanhattan
+2824,winthropsc upstate
+2819,xaviersacred heart
+2853,youngstown stsaint peter's
+2327,akronhoward
+2459,albanyrobert morris
+2432,austin peayniagara
+2592,bradleywofford
+2398,brownmaine
+2425,citadelmaryland - e. shore
+2280,creightonark little rock
+2286,detroitalcorn
+2446,indiana - purduegeorgia st
+2439,james madisonfiu
+2468,missouri ste michigan
+2593,murray stn.c. central
+2421,n.c. stateauburn
+2582,new mexicomiami (oh)
+2719,northwesterntennessee st
+2731,purduesaint joseph's
+2821,seattleweber st
+2801,south fla.nc wilmington
+2778,cal riversidesan jose st
+2595,central floridadrake
+2716,villanovamississippi
+2336,armyharvard
+2613,charlotteyale
+2389,coastal carindiana st
+2309,duquesnebinghamton
+2376,e kentuckyf dickinson
+2542,east carolinas dakota st
+2371,gonzagacolorado
+2458,manhattanfl atlantic
+2491,murray stfiu
+2450,northern iowaboston college
+2723,oaklandtennessee tech
+2793,pittwichita st
+2742,purduetennessee
+2634,texasiowa
+2583,virginia techcampbell
+2856,milwaukeetexas st
+2272,arizonacolorado
+2382,californiajacksonville
+2283,canisiusbuffalo
+2370,charlottehofstra
+2299,columbiabucknell
+2476,cal st. fullertonnew mexico st
+2326,cal st. northridgecoastal car
+2335,e illinoischicago st
+2669,gonzagawisconsin
+2633,iowa sttennessee st
+2402,kentuckycleveland st
+2464,lafayettehartford
+2418,memphiscent arkansas
+2690,mississippi sttex.-pan american
+2578,ohio stlipscomb
+2670,oklahoma stprairie view
+2609,quinnipiacmaine
+2551,ricefurman
+2689,Sam Houstonoral roberts
+2608,se louisianajacksonville st
+2798,seattleutah
+2547,sienadelaware
+2828,stanfordvirginia
+2738,texaspitt
+2863,nc wilmingtonvirginia military
+2568,estern carolinabinghamton
+2893,wake forestw salem st
+2449,bostonnortheastern
+2271,brownbryant
+2424,connecticutlouisiana state
+2637,denverwyoming
+2294,dukearizona st
+2611,e kentuckytexas san antonio
+2348,east tenn. st.charleston
+2684,northern ariz.santa clara
+2730,texas-el pason. carolina a&t
+2228,alabamabaylor
+2728,marquettexavier
+2442,michigancreighton
+2556,texas a&mclemson
+2218,akronark pine bluff
+2381,bethune-cookmanlongwood
+2408,clemsonlong beach st
+2616,drexelvermont
+2344,dukeconnecticut
+2306,east tenn. st.arkansas
+2473,floridamichigan st
+2641,kansastennessee tech
+2644,northwesternnotre dame
+2630,richmondmississippi st
+2712,seattlepresbyterian
+2751,Saint Bonaventurese missouri st
+2758,Saint John`ssiena
+2835,templevirginia tech
+2642,tennessee stkennesaw
+2561,tex.-pan americanchattanooga
+2589,southern californiacoppin st
+2656,utahillinois
+2638,valparaisoga southern
+2628,xaviercreighton
+2251,air forcecharleston so
+2399,appalachian stmorgan st
+2256,ark little rockcal poly
+2308,belmonte illinois
+2474,boston collegeprovidence
+2361,bradleyillinois
+2369,canisiushoward
+2579,daytontowson
+2355,depauldetroit
+2549,floridarutgers
+2411,idahoe washington
+2649,libertytennessee st
+2440,lipscombedwardsville
+2466,miami (oh)evansville
+2692,missouri sttulsa
+2470,oaklandcent arkansas
+2757,oklahoma stutah
+2621,pepperdinemonmouth
+2802,pittyoungstown st
+2625,seton hallliu brooklyn
+2781,Saint John`stemple
+2762,texas techsamford
+2838,texas san antoniotexas southern
+2810,utah stsouthern utah
+2904,william & marywake forest
+2829,woffordseattle
+2380,alabamamichigan
+2302,citadelcentral conn
+2345,cornelldrexel
+2529,duquesneradford
+2506,east tenn. st.north florida
+2349,indiana starkansas st
+2734,washingtonmontana
+2791,west virginiaportland
+2768,green baynorth dakota
+2445,ark little rockoral roberts
+2255,armybryant
+2774,penn stvirginia
+2737,ridersaint joseph's
+2293,c michiganchicago st
+2391,chattanoogajacksonville st
+2535,pacificfresno st
+2662,providencenortheastern
+2739,texas-el pasonew mexico st
+2429,bradleyn illinois
+2262,butlerball st
+2337,charlotteeast carolina
+2356,holy crossbrown
+2415,houston bapf dickinson
+2350,kansasalcorn
+2397,missouri stark little rock
+2714,nebraskatex.-pan american
+2717,new orleanstulane
+2826,towsonmaryland-baltimore county
+2900,estern carolinawofford
+2879,weber stutah
+2237,baylorarizona st
+2257,buffaloarmy
+2412,columbialehigh
+2394,cal st. northridgeidaho
+2313,furmanappalachian st
+2495,la sallelafayette
+2390,liu brooklynbryant
+2422,mainecolgate
+2477,murray ste kentucky
+2831,saint francis (pa)wagner
+2825,texassouthern california
+2852,texas techwashington
+2713,green bayloyola (il)
+2866,wichita sttexas southern
+2264,binghamtonbucknell
+2314,cent arkansascal st. fullerton
+2367,edwardsvilledrake
+2297,evansvillealabama st
+2435,floridajacksonville
+2602,alabama-birminghameast tenn. st.
+2741,texas arlingtonnorth dakota
+2305,austin peaye illinois
+2323,bethune-cookmanflorida a&m
+2332,bowling greenfordham
+2502,brigham youngsan francisco
+2479,cal polypepperdine
+2378,californiaiowa st
+2526,cent arkansassouthern
+2317,georgetownamerican
+2575,iowaprairie view
+2658,mississippisouthern miss
+2452,morgan stcoppin st
+2511,ohio ste michigan
+2799,robert morriswagner
+2783,seattlecalifornia-davis
+2817,saint mary'sutah st
+2732,templepenn st
+2776,la.-lafayetteSam Houston
+2654,utahidaho st
+2822,wichita stsc upstate
+2889,william & maryva commonwealth
+2676,winthrophigh point
+2924,wright styoungstown st
+2268,bostonbucknell
+2467,hawai'ilamar
+2851,w kentuckytulane
+2718,texas a&mnorth texas
+2837,texas san antoniotex.-pan american
+2899,vermontyale
+2443,air forceprairie view
+2253,brigham youngarizona st
+2347,harvardboston college
+2487,ionaliu brooklyn
+2454,new hampshirecentral conn
+2701,saint peter'sn.j.i.t.
+2627,w michigane illinois
+2911,green baywisconsin
+2428,cincinnatimiami (oh)
+2878,w kentuckyvanderbilt
+2288,arizona stdelaware st
+2290,armydartmouth
+2277,bowling greencanisius
+2298,columbiabryant
+2426,e michiganjames madison
+2372,george masoncreighton
+2489,kansasla salle
+2674,marshalltroy
+2386,memphisark little rock
+2664,minnesotasaint joseph's
+2505,missouri kchouston bap
+2660,nevadas dakota st
+2811,seton hallvirginia military
+2859,utah stutah valley
+2836,wagnersaint peter's
+2832,weber stsouthern utah
+2850,wichita sttcu
+2755,wyomingn colorado
+2735,miami (oh)wright st
+2539,niagaraillinois st
+2765,princetonnc greensboro
+2803,stanfordcalifornia-davis
+2833,templevillanova
+2805,nevada-las vegassouthern utah
+2287,americandepaul
+2222,arkansasalabama st
+2307,charlestoncharleston so
+2325,georgia techark pine bluff
+2365,jacksonvillebethune-cookman
+2678,mcneesetulane
+2668,ohio stpresbyterian
+2794,south fla.central florida
+2871,wake forestnc wilmington
+2848,youngstown stsaint francis (pa)
+2319,florida stauburn
+2875,nevada-las vegasweber st
+2352,boise sthouston bap
+2310,detroitbowling green
+2392,dukegonzaga
+2384,la sallebucknell
+2787,alabama-birminghamsouth ala.
+2788,washingtonportland
+2917,green bayyoungstown st
+2266,boston collegebryant
+2284,daytonappalachian st
+2807,providenceyale
+2796,southern utahcal riverside
+2226,auburnalabama st
+2329,coloradocal st. northridge
+2427,mississippi stcentenary
+2869,southern californiaw michigan
+2813,southern californiasaint mary's
+2912,wisconsinmilwaukee
+2849,southern californianevada-las vegas
+2252,brigham youngarizona
+2773,richmondnc wilmington
+2870,wake forestnc greensboro
+2312,bradleydrake
+2764,syracuseseton hall
+2855,utahtexas san antonio
+2240,baylorarkansas
+2249,c michiganalcorn
+2316,cincinnaticonnecticut
+2703,michigan sttexas arlington
+2492,sacred heartbrown
+2862,estern carolinan.c. asheville
+2766,oaklandw illinois
+2888,valparaisomilwaukee
+2245,americanbrown
+2354,delawaredrexel
+2320,fgcubelmont
+2360,georgia techcharlotte
+2887,green bayvalparaiso
+2834,texas techtexas-el paso
+2910,wake forestxavier
+2318,alabama stgrambling
+2343,jackson stalabama a&m
+2296,daytonball st
+2451,rhode islandakron
+2254,armybrown
+2265,citadelappalachian st
+2234,binghamtonalbany
+2328,f dickinsonbryant
+2881,woffordnc greensboro
+2471,montanae washington
+2235,akronbowling green
+2220,ark pine bluffalabama a&m
+2278,colgatearmy
+2263,colorado stair force
+2770,weber stnorthern ariz.
+2907,milwaukeegreen bay
+2753,north carolinavirginia tech
+2894,wright stvalparaiso
+2221,alabama stark pine bluff
+2453,northern iowabradley
+2300,appalachian stelon
+2247,bucknellamerican
+2242,brigham youngair force
+2746,syracuserutgers
+2785,nevada-las vegassan diego st
+2830,west virginiasouth fla.
+2258,bostonbinghamton
+2270,buffalobowling green
+2295,butlercleveland st
+2375,houston bapchicago st
+2702,pepperdinesanta clara
+2827,california-daviscalifornia-irvine
+2898,valparaisoyoungstown st
+2913,green baywright st
+2211,alabama stalabama a&m
+2845,syracusewest virginia
+2786,alabama-birminghamsmu
+2914,milwaukeewright st
+2241,buffaloakron
+2223,ark pine bluffalcorn
+2733,morgan stw salem st
+2792,saint joseph'stowson
+2238,bostonalbany
+2229,armyamerican
+2918,milwaukeeyoungstown st
+2214,alabama stalcorn
+2867,uclawashington st
+2763,n.c. ashevillepresbyterian
+2874,southern californiawashington
+2847,texas-el pasocentral florida
+2886,wake forestvirginia
+2213,alabama a&malcorn
+2261,ball stbuffalo
+2843,texas-el pasoalabama-birmingham
+2885,nevada-las vegaswyoming
+2715,vanderbiltmississippi st
+2279,c michiganbuffalo
+2236,arkansasauburn
+2795,texas san antoniose louisiana
+2244,akronc michigan
+2884,utah stwichita st
+2844,xavierSaint Bonaventure
+2901,west virginiawashington
+2292,cleveland stbryant
+2906,xavierw michigan
+2276,colorado stark pine bluff
+2860,virginia militarymaryland-baltimore county
+2267,central connarmy
+2890,va commonwealthwinthrop
+2882,nevada-las vegaswisconsin
+2872,texas-el pasoestern carolina
+2903,wyomingw illinois
+2351,boston collegeholy cross
+2905,winthropwake forest
+2246,armybinghamton
+2259,cleveland stakron
+2854,villanovaucla
+2209,alabamaalabama a&m
+2892,west virginiavirginia military
+2921,xavierwofford
+2239,albanybowling green
+2281,akrondetroit
+2873,va commonwealthvirginia military
+2250,baylorbethune-cookman
+2864,wichita sttulsa
+2846,texas-el pasocal riverside
+2895,virginiawinthrop
+2876,va commonwealthw kentucky
+2891,virginiagreen bay
+2248,arizonabryant
+2896,virginia militarywilliam & mary
+2289,albanyduquesne
+2260,coastal carakron
+2274,bradleyc michigan
+2916,woffordwinthrop
+2883,wagnervermont
+2915,william & marywofford
+2868,uclaweber st
+2908,west virginiawilliam & mary
+2230,boise stabilene chr
+2216,abilene chrark pine bluff
+2219,akronarkansas
+2922,xavierwright st
+2920,wisconsinxavier
+2205,akronair force
+2232,bayloralcorn
+2233,abilene chrbowling green
+2203,abilene chrair force
+2243,albanybryant
+2935,cal baptisttarleton st
+2934,cal baptistdixie st
+2939,tarleton stdixie st
+2925,wichita sttarleton st
+2936,youngstown stSaint Thomas (Minn.)

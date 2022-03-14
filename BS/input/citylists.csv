@@ -1,0 +1,421 @@
+CityID,City
+4027,Berkeley
+4061,Chapel Hill
+4080,Columbus
+4340,Syracuse
+4287,Raleigh
+4036,Boone
+4343,Tempe
+4119,Fayetteville
+4018,Auburn
+4227,Muncie
+4362,Waco
+4313,Seattle
+4217,Missoula
+4070,Chestnut Hill
+4048,Brooklyn Heights
+4282,Provo
+4066,Charlotte
+4074,Clemson
+4082,Conway
+4040,Boulder
+4112,Eugene
+4338,Storrs
+4101,Durham
+4270,Pittsburgh
+4044,Bridgeport
+4115,Fairfax
+4237,New Orleans
+4014,Athens
+4372,Worcester
+4155,Honolulu
+4301,Salt Lake City
+4060,Champaign
+4032,Bloomington
+4238,New Rochelle
+4006,Ames
+4189,Lawrence
+4211,Manhattan
+4177,Kent
+4193,Lexington
+4105,Easton
+4022,Baltimore
+4024,Baton Rouge
+4045,Bronx
+4215,Milwaukee
+4077,College Park
+4213,Memphis
+4281,Providence
+4103,East Lansing
+4216,Minneapolis
+4260,Oxford
+4366,West Long Branch
+4003,Albany
+4096,Denver
+4113,Evanston
+4210,Malibu
+4355,University Park
+4365,West Lafayette
+4286,Radford
+4157,Houston
+4292,Richmond
+4332,Starkville
+4186,Laramie
+4303,San Diego
+4304,San Francisco
+4021,Bakersfield
+4241,Newark
+4233,Nashville
+4079,Columbia
+4088,Dallas
+4328,St. Bonaventure
+4199,Loretto
+4285,Queens
+4266,Philadelphia
+4222,Moraga
+4279,Princess Anne
+4205,Lubbock
+4180,Knoxville
+4348,Towson
+4258,Orlando
+4253,Ogden
+4257,Orem
+4108,El Paso
+4361,Villanova
+4067,Charlottesville
+4194,Lexington
+4371,Winston-Salem
+4284,Pullman
+4072,Cincinnati
+4161,Indianapolis
+4353,Tuscaloosa
+4091,Dayton
+4346,Toledo
+4295,Rochester
+4170,Johnson City
+4016,Atlanta
+4324,Spokane
+4097,Des Moines
+4106,Edinburg
+4293,Riverdale
+4084,Coral Gables
+4195,Lincoln
+4290,Reno
+4004,Albuquerque
+4250,Notre Dame
+4247,Norman
+4335,Stillwater
+4069,Cheney
+4226,Mt. Pleasant
+4269,Piscataway
+4055,Carbondale
+4181,Lafayette
+4329,St. Louis
+4240,Newark
+4350,Tucson
+4002,Akron
+4265,Peoria
+4098,Detroit
+4116,Fairfield
+4128,Gainesville
+4370,Wilmington
+4052,Cambridge
+4107,Edwardsville
+4158,Huntington
+4118,Farmville
+4015,Athens
+4244,Norfolk
+4331,Stanford
+4020,Austin
+4351,Tulsa
+4219,Monroe
+4162,Iowa City
+4049,Buffalo
+4031,Blacksburg
+4136,Greensboro
+4224,Morgantown
+4368,Wichita
+4209,Madison
+4363,Washington
+4201,Los Angeles
+4341,Tallahassee
+4026,Beaumont
+4327,Springfield
+4336,Stockton
+4190,Lawrenceville
+4312,Savannah
+4145,Hammond
+4342,Tampa
+4081,Conway
+4367,West Point
+4050,Buies Creek
+4132,Grambling
+4064,Charleston
+4068,Chattanooga
+4206,Lynchburg
+4255,Omaha
+4298,Rosemont
+4120,Flagstaff
+4139,Greenville
+4039,Boston
+4146,Hampton
+4071,Chicago
+4187,Las Cruces
+4242,Niagara Falls
+4274,Portland
+4310,Santa Barbara
+4296,Rochester
+4169,Jersey City
+4167,Jacksonville
+4054,Cape Girardeau
+4007,Amherst
+4114,Evansville
+4364,West Hartford
+4062,Charleston
+4373,Youngstown
+4028,Bethlehem
+4099,Dover
+4168,Jacksonville
+4012,Arlington
+4280,Princeton
+4188,Las Vegas
+4173,Kalamazoo
+4011,Annapolis
+4075,Cleveland
+4307,San Juan
+4228,Murfreesboro
+4047,Brooklyn
+4276,Prairie View
+4085,Corpus Christi
+4369,Williamsburg
+4239,New York
+4330,St. Thomas
+4092,Daytona Beach
+4214,Miami
+4344,Terre Haute
+4010,Ann Arbor
+4356,USAF Academy
+4093,DeKalb
+4164,Ithaca
+4078,College Station
+4191,Lewisburg
+4013,Asheville
+4086,Corvallis
+4142,Hackensack
+4208,Macon
+4117,Fargo
+4246,Normal
+4135,Green Bay
+4203,Louisville
+4133,Grand Forks
+4110,Emmitsburg
+4236,New Haven
+4231,Nacogdoches
+4043,Bozeman
+4333,Staten Island
+4030,Birmingham
+4223,Morehead
+4297,Rock Hill
+4179,Kingston
+4294,Riverside
+4151,Hempstead
+4182,Lahaina
+4041,Bowling Green
+4087,Cullowhee
+4291,Richmond
+4083,Cookeville
+4174,Kansas City
+4126,Fresno
+4125,Fort Worth
+4127,Fullerton
+4225,Moscow
+4053,Cancun
+4147,Hanover
+4090,Davis
+4095,Denton
+4234,Natchitoches
+4259,Orono
+4323,Spartanburg
+4197,Logan
+4065,Charleston
+4172,Jonesboro
+4317,Smithfield
+4218,Mobile
+4299,Ruston
+4311,Santa Clara
+4009,Anchorage
+4057,Cedar City
+4183,Lake Buena Vista
+4008,Anaheim
+4321,South Padre Island
+4315,Shreveport
+4017,Atlantic City
+4334,Statesboro
+4196,Little Rock
+4035,Boise
+4046,Brookings
+4073,Clarksville
+4148,Harrisonburg
+4184,Lake Charles
+4261,Oxford
+4102,Durham
+4058,Cedar Falls
+4089,Davidson
+4305,San Jose
+4144,Hamilton
+4337,Stony Brook
+4300,Sacramento
+4302,San Antonio
+4034,Boiling Springs
+4042,Bowling Green
+4121,Fort Collins
+4109,Elon
+4249,Northridge
+4374,Ypsilanti
+4033,Boca Raton
+4152,High Point
+4159,Huntsville
+4123,Fort Myers
+4134,Greeley
+4149,Hartford
+4166,Jackson
+4163,Irvine
+4176,Kennesaw
+4308,San Luis Obispo
+4076,Clinton
+4212,Martin
+4229,Murray
+4207,Macomb
+4221,Moon Township
+4360,Vestal
+4124,Fort Wayne
+4143,Hamden
+4309,San Marcos
+4160,Huntsville
+4272,Pocatello
+4256,Orangeburg
+4275,Poughkeepsie
+4235,New Britain
+4248,North Little Rock
+4357,Valparaiso
+4056,Casper
+4051,Burlington
+4150,Hattiesburg
+4138,Greenville
+4094,DeLand
+4322,Southaven
+4349,Troy
+4198,Long Beach
+4100,Duluth
+4339,Sunrise
+4104,East Rutherford
+4141,Gulfport
+4254,Oklahoma City
+4137,Greenville
+4359,Vermillion
+4200,Lorman
+4354,Uncasville
+4245,Normal
+4220,Montgomery
+4345,Thibodaux
+4326,Springfield
+4268,Pine Bluff
+4165,Itta Bena
+4277,Presbyterian
+4156,Hot Springs
+4316,Sioux Falls
+4038,Bossier City
+4175,Katy
+4278,Prescott Valley
+4352,Tupelo
+4271,Playa del Carmen
+4154,Hoffman Estates
+4131,Glens Falls
+4019,Auburn Hills
+4230,Myrtle Beach
+4263,Paradise Island
+4129,Garland
+4358,Vancouver
+4232,Nampa
+4320,South Orange
+4267,Phoenix
+4288,Ramstein-Miesenbach
+4251,Oakland
+4025,Bayamon
+4252,Oakland City
+4283,Puerto Vallarta
+4153,Highland Heights
+4178,Kent
+4318,South Bend
+4319,South Korea
+4063,Charleston
+4204,Lowell
+4023,Bangor
+4289,Rapid City
+4347,Tortola
+4192,Lewiston
+4140,Greenwood
+4001,Abilene
+4202,Loudonville
+4037,Borinquen
+4005,Allentown
+4111,Estero
+4243,Niceville
+4273,Portland
+4325,Springfield
+4314,Shanghai
+4029,Billings
+4264,Pearl Harbor-Hickam
+4171,Johnstown
+4262,Paradise
+4185,Lakeland
+4059,Cedar Park
+4122,Fort Hood
+4130,Glendale
+4409,Uniondale
+4407,Great Falls
+4413,Nassau
+4412,Montego Bay
+4415,Grand Cayman
+4408,Reading
+4410,Belfast
+4416,Miami Shores
+4406,Garden City
+4417,Midland
+4390,North Charleston
+4414,Frisco
+4389,New York City
+4422,Bimini
+4446,Seaside
+4447,Kissimmee
+4441,Niagara University
+4448,Oakland
+4444,Florence
+4435,Kennewick
+4449,St. Petersburg
+4445,Georgetown
+4465,Olean
+4469,South Kingstown
+4467,Bryn Mawr
+4463,Columbia
+4459,Isla Vista
+4460,Mansfield
+4468,Moon
+4471,Midland
+4442,Toronto
+4466,Fairborn
+4458,Homewood
+4473,St. James
+4461,Montville
+4472,Riviera Maya
+4464,Lawrence Township
+4462,North Andover
+4475,Wilmington
+4476,Saint George
+4477,Stephenville
+4478,La Jolla
+4481,San Juan Capistrano
+4484,Naples
+4480,Belmont Park
+4482,St. Paul
+4479,Alcorn State

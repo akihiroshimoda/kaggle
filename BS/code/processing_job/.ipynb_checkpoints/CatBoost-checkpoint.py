@@ -18,6 +18,7 @@ from sklearn.model_selection import RepeatedStratifiedKFold
 import xgboost as xgb
 from sklearn.metrics import roc_curve, auc, confusion_matrix, accuracy_score, precision_score, recall_score, f1_score
 from lightgbm import LGBMClassifier
+from catboost import CatBoostClassifier
 import lightgbm as lgb
 from keras.layers import Dense, Dropout
 from keras.models import Sequential
@@ -66,14 +67,29 @@ if __name__ == '__main__':
     y_train= train[[target_var]]
     y_train2 = np.ravel(y_train)
 
-    model = LGBMClassifier()
+#     model = LGBMClassifier()
+#     cv = RepeatedStratifiedKFold(n_splits=10, n_repeats=3, random_state=1)
+#     param_grid ={'n_estimators':[1000,2000],'max_depth':[4,8,16],'num_leaves':[31,15,7,3],'learning_rate':[0.1,0.05,0.01]}
+#     grid = GridSearchCV(estimator=model,param_grid=param_grid,n_jobs=-1,cv=cv,scoring='roc_auc')
+        
+    model = CatBoostClassifier()
     cv = RepeatedStratifiedKFold(n_splits=10, n_repeats=3, random_state=1)
-    param_grid ={'n_estimators':[1000,2000],'max_depth':[4,8,16],'num_leaves':[31,15,7,3],'learning_rate':[0.1,0.05,0.01]}
-    grid = GridSearchCV(estimator=model,param_grid=param_grid,n_jobs=-1,cv=cv,scoring='roc_auc')
+    params = {'iterations': [500],
+          'depth': [4, 5, 6],
+          'loss_function': ['Logloss', 'CrossEntropy'],
+          'l2_leaf_reg': np.logspace(-20, -19, 3),
+          'leaf_estimation_iterations': [10],
+#           'eval_metric': ['Accuracy'],
+#           'use_best_model': ['True'],
+          'logging_level':['Silent'],
+          'random_seed': [42]
+         }
+    grid = GridSearchCV(estimator=model, param_grid=params,n_jobs=-1,cv=cv, scoring='roc_auc',cv=cv)
     grid_result = grid.fit(X_train,y_train2)
-
-    file = SAVE_OUTPUT + 'trained_model_LGBM_220317.pkl'
+    
+    file = SAVE_OUTPUT + 'trained_model_CAT_220317.pkl'
     pickle.dump(grid_result, open(file, 'wb'))
+    
     
     
     

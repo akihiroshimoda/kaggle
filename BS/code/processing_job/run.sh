@@ -12,4 +12,6 @@ fi
 
 # run the python script
 cd /opt/ml/processing/code
-python LightGBM.py BEL > /opt/ml/processing/output/run_seg.log
+#python LightGBM.py BEL > /opt/ml/processing/output/run_seg.log
+python CatBoost.py > /opt/ml/processing/output/run_seg.log
+#python LogisticRegression.py > /opt/ml/processing/output/run_seg.log

@@ -66,17 +66,15 @@ if __name__ == '__main__':
     y_train= train[[target_var]]
     y_train2 = np.ravel(y_train)
 
-    model = LGBMClassifier()
+    model = LogisticRegression()
     cv = RepeatedStratifiedKFold(n_splits=10, n_repeats=3, random_state=1)
-    param_grid ={'n_estimators':[1000,2000],'max_depth':[4,8,16],'num_leaves':[31,15,7,3],'learning_rate':[0.1,0.05,0.01]}
+    param_grid ={"C":np.logspace(-3,3,7), "penalty":["l1","l2"]}
+    logreg_cv = GridSearchCV()
     grid = GridSearchCV(estimator=model,param_grid=param_grid,n_jobs=-1,cv=cv,scoring='roc_auc')
     grid_result = grid.fit(X_train,y_train2)
 
-    file = SAVE_OUTPUT + 'trained_model_LGBM_220317.pkl'
-    pickle.dump(grid_result, open(file, 'wb'))
-    
-    
-    
+    file = SAVE_OUTPUT + 'trained_model_LR_220317.pkl'
+    pickle.dump(grid_result, open(file, 'wb'))    
     
     
     

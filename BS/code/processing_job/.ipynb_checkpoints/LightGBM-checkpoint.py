@@ -44,7 +44,7 @@ else:
     SAVE_DM_FOLDER = S3PATH_INPUT
     SAVE_OUTPUT = S3PATH_OUTPUT
 
-TRAIN_FNAME = SAVE_DM_FOLDER + '/' + 'train2.csv'
+TRAIN_FNAME = SAVE_DM_FOLDER + '/' + 'train3.csv'
 #TEST_FNAME = SAVE_DM_FOLDER + '/' + 'test.csv'
 
 def GetData():
@@ -72,7 +72,7 @@ if __name__ == '__main__':
     grid = GridSearchCV(estimator=model,param_grid=param_grid,n_jobs=-1,cv=cv,scoring='roc_auc')
     grid_result = grid.fit(X_train,y_train2)
 
-    file = SAVE_OUTPUT + 'trained_model_220312.pkl'
+    file = SAVE_OUTPUT + 'trained_model_LGBM_220317.pkl'
     pickle.dump(grid_result, open(file, 'wb'))
     
     

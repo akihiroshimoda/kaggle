@@ -69,7 +69,6 @@ if __name__ == '__main__':
     model = LogisticRegression()
     cv = RepeatedStratifiedKFold(n_splits=10, n_repeats=3, random_state=1)
     param_grid ={"C":np.logspace(-3,3,7), "penalty":["l1","l2"]}
-    logreg_cv = GridSearchCV()
     grid = GridSearchCV(estimator=model,param_grid=param_grid,n_jobs=-1,cv=cv,scoring='roc_auc')
     grid_result = grid.fit(X_train,y_train2)
 

@@ -84,7 +84,7 @@ if __name__ == '__main__':
           'logging_level':['Silent'],
           'random_seed': [42]
          }
-    grid = GridSearchCV(estimator=model, param_grid=params,n_jobs=-1,cv=cv, scoring='roc_auc',cv=cv)
+    grid = GridSearchCV(estimator=model, param_grid=params,n_jobs=-1,cv=cv, scoring='roc_auc')
     grid_result = grid.fit(X_train,y_train2)
     
     file = SAVE_OUTPUT + 'trained_model_CAT_220317.pkl'
